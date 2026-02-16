@@ -1587,7 +1587,7 @@
 			scale="2.0"
 			visible="true"
 			distorted="true"
-			onclick="ocultarf1();" 
+			enabled="false"
 		/>
 
 		<hotspot name="Papiro_3"
@@ -1599,7 +1599,7 @@
 			scale="2.0"
 			visible="true"
 			distorted="true"
-			onclick="ocultarf1();" 
+			enabled="false"
 		/>
 
 		<hotspot name="Papiro_4"
@@ -1611,7 +1611,7 @@
 			scale="2.0"
 			visible="true"
 			distorted="true"
-			onclick="ocultarf1();" 
+			enabled="false"
 		/>
 
 		<hotspot name="Pieza14Correcta"
@@ -1629,7 +1629,7 @@
 		<hotspot name="Pieza1Incorrecta"
 			type="image"
 			url="images/Pieza_incorrecta_1.png"
-			ath="-38.8946183" atv="-6.1860750"
+			ath="-35" atv="-5.3377593"
 			depth="2500"
 			scale="0.05"
 			weight="5"
@@ -1641,7 +1641,7 @@
 		<hotspot name="pieza2Incorrecta"
 			type="image"
 			url="images/Pieza_incorrecta_2.png"
-			ath="-34.8946183" atv="9.1860750"
+			ath="-35" atv="5.7966408"
 			depth="2500"
 			scale="0.05"
 			weight="5"
@@ -1653,7 +1653,7 @@
 		<hotspot name="pieza3Incorrecta"
 			type="image"
 			url="images/Pieza_incorrecta_3.png"
-			ath="-45.8946183" atv="3.1860750"
+			ath="-49.6839217" atv="6.1115996"
 			depth="2500"
 			scale="0.05"
 			weight="5"
@@ -1689,7 +1689,7 @@
 		<hotspot name="Pieza4Incorrecta"
 			type="image"
 			url="images/pieza_incorrecta_4.png"
-			ath="45.9114073" atv="-2.4862642"
+			ath="46.7057681" atv="-4.1918541"
 			depth="2500"
 			scale="0.05"
 			weight="5"
@@ -1701,7 +1701,7 @@
 		<hotspot name="Pieza5Incorrecta"
 			type="image"
 			url="images/pieza_incorrecta_5.png"
-			ath="30.9571333" atv="3.0596854"
+			ath="32.2802376" atv="6.1505871"
 			depth="2500"
 			scale="0.05"
 			weight="5"
